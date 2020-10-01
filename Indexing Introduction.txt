@@ -1,5 +1,5 @@
-Zed JUST THAT'S(Jubilee Hands-On)@6ft8in,123kg
-Zee JUST THAT'S(Jolly On-Roam)@6ft8in,109kg
+Zed JUST THAT'S(Jubilee Hands-On)@7ft1in,123kg
+Zee JUST THAT'S(Jolly On-Roam)@6ft8in,109kg||13ft7,469kg
 ..
 {Acadia JUST THAT'S->Reality Check=Obviously Made
 Atlas JUST THAT'S->Oceanic Existence=Incident Insistence
@@ -67,11 +67,11 @@ Ivette JUST THAT'S(Devout Ration=Connect Destination)
 ./
 Stash JUST THAT'S(Guzzle Humdrum=A Random Tryrantum=Randy Tantrum)(Fruit Juice=Suite Suit)!GH Comes Gone(Alternative existence)(Conscious Precious=Precious Conscious)
 
-(Weayaya,Haithem,Uzuri,Ezekiel,Oswald,Orion,Pongshit,Nihul,Kibwe,Khayum,Rakim,Ash)@7ft1in,123kg
-(Hua,Wijdan,Fortuna,Meryl,Kunoichi,Pearl,Ojosa,Oumou,Lyra,Ushi,Lixue,Nirja)@6ft8in,109kg
-(Rhys,Demyx,Umbel,Ephraim,Ole,Leo,Sekou,Batzorig,Ezzard,Nachum,Isidro,Imanol)@7ft1,123kg
-(Ozlem,Mizn,Saengdao,Brishna,Kianga,Autumn,Itxaro,Ivette)@6ft8in,457kg
+(Weayaya,Haithem,Uzuri,Ezekiel,Oswald,Orion,Pongshit,Nihul,Kibwe,Khayum,Rakim,Ash)@7ft1in,123kg||13ft7,469kg
+(Hua,Wijdan,Fortuna,Meryl,Kunoichi,Pearl,Ojosa,Oumou,Lyra,Ushi,Lixue,Nirja)@6ft8in,109kg||13ft2,435kg
+(Rhys,Demyx,Umbel,Ephraim,Ole,Leo,Sekou,Batzorig,Ezzard,Nachum,Isidro,Imanol)@7ft1,123kg||14ft,491kg
+(Ozlem,Mizn,Saengdao,Brishna,Kianga,Autumn,Itxaro,Ivette)@6ft8in,109kg||13ft7,469kg
 
-Stash@7ft6,148kg
+Stash@7ft6,148kg||18ft,1626kg
 
 {Romelu@Poking Pension=Coating Tension}->Cook@Cerulean{Yvester}
