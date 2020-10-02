@@ -46,7 +46,7 @@ Ushi JUST THAT'S(Able Section{Effort Fraction}=Premise Ordain)
 Khayum JUST THAT'S(Modal Option=Anchor Arcane)
 Lixue JUST THAT'S(Simile Popcorn=Reticence Vat)
 Rakim JUST THAT'S(Daily Hologram=Critical Pat)
-Ash JUST THAT'S(Lastly Phantom{Lastly Phantom}=Caster Hat)
+Ash JUST THAT'S(Lastly Phantom{Lastly a ghastly Phantom}=Caster Hat)
 Nirja JUST THAT'S(Shadowy Lantern=Weather Chat)
 Ozlem JUST THAT'S(Penchant Cap=Location That)
 Ole JUST THAT'S(Wheel Running=Intention Garlic)
@@ -73,5 +73,7 @@ Stash JUST THAT'S(Guzzle Humdrum=A Random Tryrantum=Randy Tantrum)(Fruit Juice=S
 (Ozlem,Mizn,Saengdao,Brishna,Kianga,Autumn,Itxaro,Ivette)@6ft8in,109kg||13ft7,469kg
 
 Stash@7ft6,148kg||18ft,1626kg
+{GUZZLE HUMDRUM=RANDY TANTRUM(A RANDOM TRYRANTUM||Fruit Juice=Suit Suite/Sweet<->Onto Murmur=Upto Concur||Conscious Precious=Precious Conscious}
 
-{Romelu@Poking Pension=Coating Tension}->Cook@Cerulean{Yvester}
+{Romelu@Poking Pension=Token Function}->Cook@Cerulean
+Viorica{Hoping Honest=Looking Preset}
