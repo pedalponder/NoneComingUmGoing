@@ -6,7 +6,7 @@ Atlas JUST THAT'S->Oceanic Existence=Incident Insistence
 },Adventurers of Paths
 {
 Dolores JUST THAT'S->Common Place=Selfish Being-Test
-Everett JUST THAT'S->Passage Cue=Resultant Never-New
+Errol JUST THAT'S->Passage Cue=Resultant Never-New
 },Testaments of Berths
 {
 Yerkebuian JUST THAT'S->Seniority Off-Block=Temporal Alas-Shock
@@ -60,7 +60,7 @@ Ezzard JUST THAT'S(Buzzing Reason=Offer Season)
 Kianga JUST THAT'S(Planned Access=Grand Success)
 Autumn JUST THAT'S(Drilling Ventilate=Grilling Intellect)
 Nachum JUST THAT'S(None Coming=Um Going)
-Itxaro JUST THAT'S(Hoping Honest=Sporting Latest)
+Itxaro JUST THAT'S(Am Where=Name Swear)
 Isidro JUST THAT'S(Behalf Demure=Let-Up Manure)
 Imanol JUST THAT'S(Noble Discerned=Action Passioned)
 Ivette JUST THAT'S(Devout Ration=Connect Destination)
@@ -72,8 +72,8 @@ Stash JUST THAT'S(Guzzle Humdrum=A Random Tryrantum=Randy Tantrum)(Fruit Juice=S
 (Rhys,Demyx,Umbel,Ephraim,Ole,Leo,Sekou,Batzorig,Ezzard,Nachum,Isidro,Imanol)@7ft1,123kg||14ft,491kg
 (Ozlem,Mizn,Saengdao,Brishna,Kianga,Autumn,Itxaro,Ivette)@6ft8in,109kg||13ft7,469kg
 
-Stash@7ft6,148kg||18ft,1626kg
+Stash@7ft6,148kg||18ft,1800kg
 {GUZZLE HUMDRUM=RANDY TANTRUM(A RANDOM TRYRANTUM||Fruit Juice=Suit Suite/Sweet<->Onto Murmur=Upto Concur||Conscious Precious=Precious Conscious}
 
-{Romelu@Poking Pension=Token Function}->Cook@Cerulean
-Viorica{Hoping Honest=Looking Preset}
+{Romelu@Poking Pension=Token Function=Written Lesson}->Cook@Cerulean
+Viorica{Hoping Honest=Looking Preset=Shopping Latest}
