@@ -1,0 +1,110 @@
+[
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/After-Pinkenberry-1-Patch-1/pull/9#issuecomment-439798068",
+    "pull_request": "https://github.com/guzzlehumdrum/After-Pinkenberry-1-Patch-1/pull/9",
+    "user": "https://github.com/guzzlehumdrum",
+    "body": "[AFTER.PINKENBERRY.DHI.RENOVATED.PATCH.docx](https://github.com/ - /After-Pinkenberry-1-Patch-1/files/2594193/AFTER.PINKENBERRY.DHI.RENOVATED.PATCH.docx)\r\n",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2018-11-19T07:38:30Z"
+  },
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/143#issuecomment-643723895",
+    "issue": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/143",
+    "user": "https://github.com/guzzlehumdrum",
+    "body": "'keyword\" type:issue\n\nsearch",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2020-06-14T06:10:29Z"
+  },
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/407#issuecomment-671079374",
+    "issue": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/407",
+    "user": "https://github.com/guzzlehumdrum",
+    "body": "Place Place Place Place or Thunder-Strike/This Ok Thus Or Drink and Drive",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2020-08-09T17:29:58Z"
+  },
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/141#issuecomment-671154466",
+    "issue": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/141",
+    "user": "https://github.com/tectronics",
+    "body": "Highway restaurant and Takeaway\nP.o.box 235\nJinja Uganda\n+256752400523\n+256772468675\n+256701694853\n+256752401523\n+256782383604\n+256754716585 91\n9193184001598720806534863704574872112581740305601508807886179411598341301073243707245218101534607606436091103500634109738369211677340509682197008860346505839831209514779507927190808534794900916474320239518640113882850668513891828025001660823640622468950877637160857427681795937360025109650496406320394115530088895900257788990797794591172130200767397250641637071956132430156735630179224430733062903634935303907264602629965307033329121350543806528073116478686106606196106396361006546933047134911054016240065692032063848622071290031063551661339527912974245510672009470334858480634940150175602850594784620531578422630910250260713621483642606041725403073649400450767120749479022377157204595583032299576028134130088738408040474531014734020510515440161469470093603905928406611756261307939181805693361516703320109006431505760981301178295205511310304892480509788361129292761002765699201371479209050483512503573400517728505045419205102246509423943703699951302107564407633142703051866689195600204922069402782872007033468608315403918886221127815034409610878506771316104345258505159601703952105207765260401618439302882158403832270205358431001274503209163785RA4466801NA6038665TA2979137SA2041004PA1800082TA0121371SA1094875t905048351250357340",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2020-08-10T04:15:40Z"
+  },
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/430#issuecomment-674376887",
+    "issue": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/430",
+    "user": "https://github.com/guzzlehumdrum",
+    "body": "Mr Magnus Glenol,41[42,July-25]@Yvester Town@Johto+Mrs Dawn Berlitz Glenol,28[29,March-2]@Sinnoh\r\n\r\n18(2)-23(1),Oak Labs(Student_Transfer<->Naomi Labs)@Research\r\n23(1),Fail-1\r\n23(4),Fail-2\r\n23(7),Fail-3\r\n23(10),Fail-4\r\n24(1),Fail-5\r\n24(2),Granted\r\n24(3)-25(9),Kalos(R)\r\n25(10)-26(7),Pasio(R)\r\n26(8)-28(2),Johto(R)\r\n28(3),Fail-6\r\n28(4)-29(5),Sewage@Flexdijon\r\n29(6),Preliminary-1\r\n29(7)-29(8),Hospital\r\n29(9)-29(10),Recovery\r\n29(11),Preliminary-2\r\n30(0)-30(2),Oak Labs\r\n30(3)-30(4),Allegations@Court@Force_Escaping_Summon\r\n30(5)-30(7),Prison\r\n30(8),Bail\r\n30(9),Probation@Negotiations\r\n30(10)-31(7),Ransei(R)\r\n31(8)-33(2),Unova(R)\r\n33(3)-34(9),Hoenn(R)\r\n34(10)-36(4),Kanto(R)\r\n36(5)-37(11),Sinnoh(R)\r\n38(6),{Dr}\r\n38(6)-41(8)@Service@Freelance{Naomi Labs}\r\n[41(5),Mrs Dawn Berlitz Glenol]\r\n42(3)-,Oak Labs@Work\r\n\r\n+\r\n\r\n33(11)-33(7),Sinnoh Contest(W,Michael Bugpoi){Self@Sponsor}\r\n33(8)-36(4),Sinnoh League(W,Melody)\n36(3)-37(3),Sinnoh Contest_Frontier(W)\n37(4)-38(4),Sinnoh Frontier(W)\n38(5),Hoenn\n38(6),Unova\n38(7),Johto\n38(8),Kanto\n39(3)-41(8),Kukui Labs@Ranger\n42(3)-,Oak Labs@Ranger",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2020-08-15T09:54:31Z"
+  },
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/472#issuecomment-678756140",
+    "issue": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/472",
+    "user": "https://github.com/guzzlehumdrum",
+    "body": "SHADOWY LANTERN=WEATHER CHAT",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2020-08-23T10:20:41Z"
+  },
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/474#issuecomment-678783675",
+    "issue": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/474",
+    "user": "https://github.com/guzzlehumdrum",
+    "body": "Jubilee Hands-On",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2020-08-23T14:52:02Z"
+  },
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/481#issuecomment-679220429",
+    "issue": "https://github.com/guzzlehumdrum/Guzzle-Humdrum/issues/481",
+    "user": "https://github.com/guzzlehumdrum",
+    "body": "Silver Jubilee Distribution with Johto Border",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2020-08-24T16:07:46Z"
+  },
+  {
+    "type": "issue_comment",
+    "url": "https://github.com/guzzlehumdrum/NoneComingUmGoing/issues/16#issuecomment-885430835",
+    "issue": "https://github.com/guzzlehumdrum/NoneComingUmGoing/issues/16",
+    "user": "https://github.com/guzzlehumdrum",
+    "body": "> Czeslaw&Hayley(dancing around) : \"Cater Rafter Shatter Demise/Pull up Batter wins in guise/Curse Boon Ravage Front and Side/Discarded Left with God or Hell or Alone..Repêchage Hype..Peril Peril Peril Strive/Vigour Rigour On-Tour coincide..\r\n> Ei Fuzzy Fuzzy me/Ei Slender Slender is to be thee..\r\n> Good Morning Good Night/middle middle dream say is who Life/Demise of do or to/Peril Peril Renders to CUE..(too happy)..dad dad did you see how you couldn't study but by this referred to how we were dancing without our bodies#..Choiced Brats,#..\"\r\n> Chris(scowl) : \"i see..thus it accounted to only completely wrong hand combat shadow#..Kommo-the fightin'-So,#,..move on i'm contacting your head scoundrel#..Dr Berry enough of your resemblance with ego#..i'm being hindered by my own kids to continue working why hum#..\"\r\n> Strawberry : \"Oh Gyre Gyre analogy/oh Gyre Point Padeo-Psychology#/Oh Gyre Gyre Conclusion/Oh Gyre Notice to Logic..Implosion#..\"\r\n> Chris(angry) : \"you lowlife why are you intruding into my memories hum#..\"\r\n> Czeslaw&Hayley(giggle,tendering Chris) : \"Happy Belated Birthday Daddy..any day is so memory boo birth go..YaY!..countering saw,#..Gamblers of Illusion,#,..\"\r\n\r\n",
+    "formatter": "markdown",
+    "reactions": [
+
+    ],
+    "created_at": "2021-07-23T06:31:02Z"
+  }
+]
